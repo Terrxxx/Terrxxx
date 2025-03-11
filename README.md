@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Terrxxx
+- ❤ My website: https://yrxs.net
 <!---- 👀 I’m interested in Minecraft Develop
 - 🌱 I’m Minecraft Developer
 - 💞️ I’m happy
 - 📫 Good Bye
-- ❤ My website: https://mc.theyrxs.com
 
 
 Terrxxx/Terrxxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
